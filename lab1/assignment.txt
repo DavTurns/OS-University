@@ -1,0 +1,6 @@
+Schreiben Sie ein Shell-Skript, das eine Anzahl von Ordner
+erstellt. Diese Zahl wird in der Befehlszeile als dem ersten
+Parameter eingegeben. (die Ordner befinden sich auf derselben
+Ebene). In jeder neu erstellten Ordner werden eine Anzahl von
+Dateien erstellt. Die Anzahl der Dateien wird als zweiten
+Parameter in der Befehlszeile eingegeben
