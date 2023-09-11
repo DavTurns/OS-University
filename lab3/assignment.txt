@@ -1,0 +1,3 @@
+For each entered file, display the ratio between the number of vowels and the number of consonants. 
+The files are provided on the command line. The result will be displayed on the standard output in the following format (one line for each file): 
+"FileName Number_Of_Vowels Number_Of_Consonants."
